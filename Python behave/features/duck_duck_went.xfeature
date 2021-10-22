@@ -1,0 +1,17 @@
+Feature: duck duck go implementatie
+
+  In deze feature wordt de duck duck go pagina opgeroepen
+  In deze feature worden zoekopdrachten uitgevoerd
+
+  Scenario: Open duck duck go
+    Given Chrome has been opened
+    And Duck Duck Go is being displayed
+    Then Look <first> up
+    And wait 5 seconds for check
+    
+    Examples:
+      | first |
+      | one   |
+      | two   |
+      | three | 
+      | four  |

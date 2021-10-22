@@ -1,0 +1,9 @@
+data = {
+    'options': ['cheap', 'easy'],
+    'budget': 100,
+    'expenses': {
+      'stay': 52.56,
+      'travel': 18.22,
+      'misc': 42.00
+    }
+  }
