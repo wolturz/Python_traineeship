@@ -17,3 +17,4 @@ In spelen_met_woorden.py, the file looks for words and applies some conditions t
 
 changelog:
 - commitment added
+- Github added?
